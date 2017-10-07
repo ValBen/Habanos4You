@@ -384,7 +384,7 @@
           },
           "title": "<em>$190,00</em>&nbsp;<br>Montecristo No.2",
           "text": "Ring Guage: 52<br>Length: 156 mm / 6.1 inches<br>Duration: 45min-1hour<br>Strength: Medium - Full<br>Taste: Spicy",
-          "buttons": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=%24150%2C00&amp;item_name=Montecristo+No.2&amp;currency_code=USD\" class=\"btn btn-primary\" role=\"button\">Buy now<br></a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=%24150%2C00&amp;item_name=Montecristo+No.2&amp;currency_code=USD\" class=\"btn btn-primary\" role=\"button\">Buy now<br></a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
@@ -498,7 +498,7 @@
           },
           "adress": "You must be of legal age (over 18 years) to purchase tobacco.",
           "phone": "<a href=\"tel:+12 (3) 456 7890 123\" class=\"adr-link\"><span style=\"color: rgb(117, 117, 117); font-size: 16px; background-color: inherit;\">SURGEON GENERAL WARNING</span></a>Cigars Are Not Safe Alternative To Cigarettes.<br>",
-          "email": "<a href=\"mailto:sample@sample.com\" class=\"adr-link\">exclusivehabanos@valben.com<br></a>",
+          "email": "<a href=\"mailto:sample@sample.com\" class=\"adr-link\"></a><a href=\"mailto:valben.services@gmail.com\">exclusivehabanos@valben.com</a><br>",
           "titleNews": "ExclusiveHabanos4U",
           "mediaNews1": {
             "image": {
@@ -510,7 +510,7 @@
               "title": ""
             }
           },
-          "textNews1": "<a href=\"http://mobirise.com\">If you send us your information we will send you 5% 0ff</a>",
+          "textNews1": "<a href=\"mailto:valben.services@gmail.com\">If you send us your information we will send you 5% 0ff</a>",
           "mediaNews2": {
             "image": {
               "class": "resp-img",
@@ -692,7 +692,7 @@
           },
           "adress": "You must be of legal age (over 18 years) to purchase tobacco.",
           "phone": "<a href=\"tel:+12 (3) 456 7890 123\" class=\"adr-link\"><span style=\"color: rgb(117, 117, 117); font-size: 16px; background-color: inherit;\">SURGEON GENERAL WARNING</span></a>Cigars Are Not Safe Alternative To Cigarettes.<br>",
-          "email": "<a href=\"mailto:sample@sample.com\" class=\"adr-link\">exclusivehabanos@valben.com<br></a>",
+          "email": "<a href=\"mailto:sample@sample.com\" class=\"adr-link\"></a><a href=\"mailto:valben.services@gmail.com\">exclusivehabanos@valben.com</a><br>",
           "titleNews": "ExclusiveHabanos4U",
           "mediaNews1": {
             "image": {
@@ -704,7 +704,7 @@
               "title": ""
             }
           },
-          "textNews1": "<a href=\"http://mobirise.com\">If you send us your information we will send you 5% 0ff</a>",
+          "textNews1": "<a href=\"mailto:valben.services@gmail.com\">If you send us your information we will send you 5% 0ff</a>",
           "mediaNews2": {
             "image": {
               "class": "resp-img",
