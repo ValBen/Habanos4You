@@ -1,0 +1,801 @@
+{
+  "settings": {
+    "name": "Cuban black tobacco ",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "spacem",
+      "title": "SpaceM",
+      "styling": {
+        "primaryColor": "#D901ED",
+        "secondaryColor": "#46004C",
+        "successColor": "#2BE080",
+        "infoColor": "#1A5CEB",
+        "warningColor": "#E0C119",
+        "dangerColor": "#EB5A1A",
+        "titleFont": "Arapey",
+        "subtitleFont": "Lato",
+        "textFont": "Lato",
+        "isRoundedButtons": true
+      },
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.3.2",
+    "uniqCompNum": 17,
+    "versionPublish": "4.3.2",
+    "mcShopcart": {
+      "email": "osvaldobenitez@outlook.com"
+    }
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "The Secrets of the Exclusive",
+        "meta_descr": "Authentic Cuban Cigars, ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#222"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#dddddd!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#e5e5e5"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
+              "background": "#000000"
+            },
+            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
+              "background": "transparent"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#222"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#222!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#e5e5e5",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "#222"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=190&amp;item_name=Montecristo+No.2&amp;currency_code=USD\">PURCHASE</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/eh4ulogo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-g"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/tabacco-900x600.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "Made for <em>You</em>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Montecristo No.2 shares flavor with the other Montecristo lines released in 1940s. The flavor of this Cuban cigar combines that of Mocha, cocoa, chocolate, roasted coffee and vanilla. The taste is spicy all through and burns with beautiful thick smoke and woody aroma, the hallmark of Cuban tobacco. Apart from this peculiar combination of flavors, the cigar has a splendid construction featuring ring size of 52, a thick gauge and length measuring 156 millimeters. It is presented as two layers in a box of 25 sticks a perfect shape for a humidor. It was released early in 1940s and has continued to mesmerize smokers all over the world.",
+                "buttons": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=190.0&amp;item_name=Montecristo+No+2&amp;currency_code=USD\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">Purchase</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/tabaco6-1280x844.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "The Secrets of the Exclusive",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "MONTECRISTO<br>Montecristo No.2<br>VITOLA DE GALERA Pirámides<br>DIMENSIONS &nbsp;156 mm (6 1/8”) x 52 (20.64 mm)<br>FLAVOUR Medium to Full",
+                "buttons": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=190&amp;item_name=Montecristo+No.2&amp;currency_code=USD\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">Purchase</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider1",
+          "_anchor": "slider1-0",
+          "_styles": {
+            "H1": {
+              "font-size": "100px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#222222",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tabacco-900x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tabacco-900x600-800x533.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tabaco7-2000x1660.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tabaco7-2000x1660-800x664.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tabaco-cubano-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tabaco-cubano-1200x800-800x533.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tabaco4-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tabaco4-1280x720-800x450.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tabaco12-720x347.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tabaco12-720x347-720x347.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tabaco12-720x347.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tabaco12-720x347-720x347.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tabaco8-620x420.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tabaco8-620x420-620x420.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tabaco6-1280x844.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tabaco6-1280x844-800x527.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
+          "allItem": "All",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-4"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/testimonials2.jpg",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#eee",
+            "overlayOpacity": 0.75,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "showText": true,
+                "showTitle": true,
+                "image": "@PROJECT_PATH@/assets/images/header1.jpg",
+                "title": "",
+                "text": "One of the most complex and flavorful cigars out there, the Montecristo No. 2 definitely has reputation beyond repute. I must say that it deserves this reputation, because this is a truly wonderful cigar when properly aged and if there are no construction issues.<br>"
+              },
+              {
+                "active": false,
+                "showText": true,
+                "showTitle": true,
+                "image": "@PROJECT_PATH@/assets/images/header1.jpg",
+                "title": "",
+                "text": "I think this is one of the best-selling stogies out there, and it definitely has this best-selling look. Cigars in this box had a very good appearance, with a chocolate wrapper just like on the Petit Edmundos<br>"
+              },
+              {
+                "active": false,
+                "showText": true,
+                "showTitle": true,
+                "image": "@PROJECT_PATH@/assets/images/header1.jpg",
+                "title": "",
+                "text": "The construction is just impeccable - the ash would never fall! The draw was very slightly firm, but produced plenty of smoke<br>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "_anchor": "testimonials2-6"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": true,
+            "showMedia": true,
+            "imageSize": 50,
+            "inverse": true,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tabaco7-2000x1660.jpg",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/montecristo-736x982.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/f30QOSL3lEI",
+              "class": "mbr-figure__img",
+              "aspectratio": "4:3",
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "title": "<em>$190,00</em>&nbsp;<br>Montecristo No.2",
+          "text": "Ring Guage: 52<br>Length: 156 mm / 6.1 inches<br>Duration: 45min-1hour<br>Strength: Medium - Full<br>Taste: Spicy",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=%24150%2C00&amp;item_name=Montecristo+No.2&amp;currency_code=USD\" class=\"btn btn-primary\" role=\"button\">Buy now<br></a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showTitle": true,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/montecristo-736x982.jpg",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.7",
+            "googleMap": {
+              "address": "",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Invalid request"
+            }
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 320,
+              "src": "@THEME_PATH@/components/_images/about.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Have you been wanting more? What can I do for you?",
+          "text": "Lorem ipsum dolor sit amet, consec tetur adip iscing elit. Curabitur feugiat feugiat and brane in bibendum ",
+          "form": {
+            "title": "MESSAGE",
+            "action": "osvbepo@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" href=\"mailto:osvbepo@gmail.com\" class=\"btn btn-black\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">Send it</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "subscribe2",
+          "_anchor": "subscribe2-5"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "showMedia": true,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#212121",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cooltext261306210353492-228x86.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "adress": "You must be of legal age (over 18 years) to purchase tobacco.",
+          "phone": "<a href=\"tel:+12 (3) 456 7890 123\" class=\"adr-link\"><span style=\"color: rgb(117, 117, 117); font-size: 16px; background-color: inherit;\">SURGEON GENERAL WARNING</span></a>Cigars Are Not Safe Alternative To Cigarettes.<br>",
+          "email": "<a href=\"mailto:sample@sample.com\" class=\"adr-link\"><b>Email:</b> sample@sample.com</a>",
+          "titleNews": "ExclusiveHabanos4U",
+          "mediaNews1": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/privacy-policy-1062x367.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "textNews1": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "mediaNews2": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/paypal-logo-1-500x252.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "textNews2": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "titleTweet": "<a href=\"index.html\">ExclusiveHabanos4U</a>",
+          "tweet1": "<a href=\"index.html\" class=\"adr-link\"><span style=\"color: rgb(255, 255, 255); font-size: 16px; background-color: inherit;\"></span></a><a href=\"index.html\">PLEASE FOLLOW THESE SIMPLE STEPS:&nbsp;<b style=\"font-size: 16px; background-color: inherit;\"></b></a><b style=\"font-size: 16px; background-color: inherit;\"><a href=\"index.html\" style=\"display: inline !important;\"></a><a href=\"index.html\" style=\"font-weight: 400; display: inline !important;\">1. Select a product you want to order</a>.</b>",
+          "tweet2": "<a href=\"http://mobirise.com\" class=\"adr-link\">Ring Guage: 52<br>Length: 156 mm / 6.1 inches<br>Duration: 45min-1hour<br>Strength: Medium - Full<br>Taste: Spicy<br></a>",
+          "tweet3": "<a href=\"http://mobirise.com\" class=\"adr-link\"><span style=\"color: rgb(255, 255, 255); font-size: 16px; background-color: inherit;\"></span></a><a href=\"index.html#testimonials2-6\">One of the most complex and flavorful cigars out there...</a><br>",
+          "tweet4": "",
+          "titleInst": "Images",
+          "mediaInst1": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/especialista-en-habanos-logo-en-195x259.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "mediaInst2": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/habanos-cigar-terminal-297x108.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "mediaInst3": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/logoespecialista-es-585x157.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "mediaInst4": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/logo-hc-2017b-copy-copy-1170x947.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "mediaInst5": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/secure-138x133.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "mediaInst6": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/comodo-secure-255x143.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "copyright": "2017 All rights reserved. Development by <a href=\"index.html\" class=\"text-success\">EH4U</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-7",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Terminos y condiciones",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": false,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header1.jpg",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@THEME_PATH@/components/_images/info.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>TERMS AND CONDITIONS</i></span>",
+          "text": "Privacy Policy<br>We do not share or grant access to any customer data to any persons or entity outside our company.<br><br>Security Policy<br>Our merchant processor is a leading, secure and reliable international payment service provider to banks and online merchants since 2000. Customers'payment details are securely transmitted to the acquiring bank, card and payment companies for real-time transaction authorisation using 256-bit Extended Validation Certificates (EV) SSL transaction encryption. Our merchant processor supports CVV/CVC check as well as 3-D secure authentication of Visa namely: Verified By VISA for added security protection for both customers and merchant.<br><br><i>How to Order</i><br>TO PLACE AN ORDER, PLEASE FOLLOW THESE SIMPLE STEPS:<br><br>1. Select a product you want to order;<br>2. After you select a product, click “Cart Icon” to add the product to your shopping cart.<br>3. If you would like to purchase more than 1 item, repeat steps 1 and 2.<br>4. After shopping simply click \"Cart Icon\" located at the top right of your screen.<br>5. Review the quantity and items in your cart and click “Checkout”.<br>6. Login (if you have not already done so) and complete the brief information form (billing &amp; delivery addresses, credit card information); and<br>7. Click \"PLACE ORDERt\". Within moments, you will get an order number and a detailed order confirmation will be sent to you by E-mail.<br><br><i>Guarantee</i><br><br>Guaranteed Customer satisfaction is our primary objective.<br>With confidence, we offer a 100% satisfaction guarantee or your money back, no questions asked. Our guarantee applies to quality and condition of our products. We guarantee also that all our cigars are <b>100% authentic Habanos cigars</b>.<br>After you place an order, we hand select cigars that are at their peak for consumption. We ship them to you in a time efficient manner and ensure that you receive the cigars in the same condition we foster in our humidor.<br>Our cigars are sent to you in their original boxes from our temperature/humidity regulated humidors in hermetically sealed packaging in order to preserve freshness. Loose cigars are packed in reusable humidifying pouches.<br>If you are not completely satisfied with our products, you may return your purchase in its original packaging for an immediate and full refund or exchange - at our discretion. Kindly inform us by email of your dissatisfaction so that we may inform you of our refund / exchange procedures.<br><br>Shipping<br>Shipment is by express courier with approximately 4 days delivery to your door in the USA and 10 days everywhere . Occasionally, delays beyond our control, may occur.<br>Free Shipping Worldwide for orders of 100 USD or more. For small orders under 50 USD, a fee of 20 USD is charged.&nbsp;<br>We guarantee delivery to your door anywhere in the world. If you do not receive your shipment, we will either replace it or refund your money.<br>We guarantee receipt of your cigars and other products in perfect condition. Please refer to our Guarantee (see above).<br>If you do not receive your shipment we will either replace it or refund your money at our discretion.<br>We guarantee delivery to your door anywhere in the world unless the non- delivery is caused by customer's error.<br>If tracking indicates that your package was delivered, we will not be responsible if it goes missing.<br><br>Price Match Policy<br>We won't be beat on price. We'll match the in-stock product prices of legitimate online competitors.<br><br>Terms and Conditions<br>Please be aware that a confirmation of an order containing any tobacco products is taken as an acceptance and agreement that the receiver of these products is at or over the legal age for consumption of tobacco in their country.<br>1) All orders are subject to confirmation by HabanoExclusive4U. HabanoExclusive4U reserves the right to limit order quantities for a given product. In case an ordered product is not available at the time of shipping, HabanoExclusive4U will inform you in a timely manner.<br>2) If the client is entitled to a replacement for a damaged shipment or a lost package, the amount will be credited to the customer’s account to be used for future orders. The client may request direct reimbursement to the credit card or bank account used to make the order if justified.<br>3) The customer becomes responsible for delivered products. In case of problems, please contact us within 7 days of receiving your order. No credit or replacements will be made after this period. Goods that were delivered by mistake or in excedent must be returned within 7 days of reception of the order. Goods that are returned must be returned undamaged, in their original packaging and by unit of packaging. The buyer bears the shipping costs. Please contact us to receive a return number and instructions.<br>4) Please note that according to the new US law, regarding Cuban products, we can ship Cuban cigarettes to the United States.<br>5) All prices and other terms and conditions are subject to change until the order is confirmed by HabanoExclusive4U.<br>6) Please be aware that your delivery may also be subject to local customs charges, over which we have no control, and which must be borne by you.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-b",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "SPAN": {
+              "font-size": "84px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "showMedia": true,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#212121",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cooltext261306210353492-228x86.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "adress": "You must be of legal age (over 18 years) to purchase tobacco.",
+          "phone": "<a href=\"tel:+12 (3) 456 7890 123\" class=\"adr-link\"><span style=\"color: rgb(117, 117, 117); font-size: 16px; background-color: inherit;\">SURGEON GENERAL WARNING</span></a>Cigars Are Not Safe Alternative To Cigarettes.<br>",
+          "email": "<a href=\"mailto:sample@sample.com\" class=\"adr-link\"><b>Email:</b> sample@sample.com</a>",
+          "titleNews": "ExclusiveHabanos4U",
+          "mediaNews1": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/privacy-policy-1062x367.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "textNews1": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "mediaNews2": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/paypal-logo-1-500x252.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "textNews2": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "titleTweet": "<a href=\"index.html\">ExclusiveHabanos4U</a>",
+          "tweet1": "<a href=\"index.html\" class=\"adr-link\"><span style=\"color: rgb(255, 255, 255); font-size: 16px; background-color: inherit;\"></span></a><a href=\"index.html\">PLEASE FOLLOW THESE SIMPLE STEPS:&nbsp;<b style=\"font-size: 16px; background-color: inherit;\"></b></a><b style=\"font-size: 16px; background-color: inherit;\"><a href=\"index.html\" style=\"display: inline !important;\"></a><a href=\"index.html\" style=\"font-weight: 400; display: inline !important;\">1. Select a product you want to order</a>.</b>",
+          "tweet2": "<a href=\"http://mobirise.com\" class=\"adr-link\">Ring Guage: 52<br>Length: 156 mm / 6.1 inches<br>Duration: 45min-1hour<br>Strength: Medium - Full<br>Taste: Spicy<br></a>",
+          "tweet3": "<a href=\"http://mobirise.com\" class=\"adr-link\"><span style=\"color: rgb(255, 255, 255); font-size: 16px; background-color: inherit;\"></span></a><a href=\"index.html#testimonials2-6\">One of the most complex and flavorful cigars out there...</a><br>",
+          "tweet4": "",
+          "titleInst": "Images",
+          "mediaInst1": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/especialista-en-habanos-logo-en-195x259.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "mediaInst2": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/habanos-cigar-terminal-297x108.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "mediaInst3": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/logoespecialista-es-585x157.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "mediaInst4": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/logo-hc-2017b-copy-copy-1170x947.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "mediaInst5": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/secure-138x133.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "mediaInst6": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/comodo-secure-255x143.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "copyright": "2017 All rights reserved. Development by <a href=\"index.html\" class=\"text-success\">EH4U</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-8"
+        }
+      ]
+    }
+  }
+}
